@@ -13,14 +13,14 @@ We built an recruiting portal for the administration and visualization of the CV
 > ## **UX/UI**
 > - Figma
 >
-> ## **Front-End**
+> ### **Front-End**
 > - CSS
 > - HTML
 > - Bootstrap
 > - JavaScript
 > - Git / Github
 > 
->  ## **Back-End**
+>  ### **Back-End**
 > - MySQL
 > - Rest API
 > - Git / Github
@@ -47,12 +47,12 @@ We built an recruiting portal for the administration and visualization of the CV
 
 ## Game: Taco Quest 
 
-> ##**Video Game Technologies:**
+> ### **Video Game Technologies:**
 > - UI
 > - Unity
 > - Git / Github
 > 
-> ## **Back-End**
+> ### **Back-End**
 > - MySQL
 > - Rest API
 > - Git / Github
