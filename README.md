@@ -41,7 +41,7 @@ We built an recruiting portal for the administration and visualization of the CV
 > ![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655196826/AdminView_t6m1np.png)
 
 > **CV**
->![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655196827/CV_dybnw3.png)
+>![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655234094/CV_r9edio.png)
 
 ---
 
