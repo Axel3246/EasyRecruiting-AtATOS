@@ -58,6 +58,8 @@ We built an recruiting portal for the administration and visualization of the CV
 > - Git / Github
 > - C# .Net Core 5
 
+---
+
 >  **Landing Page Day Mode**
 > ![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655196216/gamestart_wwpfig.png)
 > 
