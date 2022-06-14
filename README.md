@@ -6,8 +6,10 @@
 
 We built an recruiting portal for the administration and visualization of the CV of the applicants to the ATOS company. In addition, the development of a video game whose purpose will be the pre-selection of interviews through questions and answers of the tools and/or programs to be used was shown.
 
-Para la aplicación web (plataforma CV), se cuentan con los siguientes requisitos para front-end y back-end:
+--- 
 
+
+## WebApp
 > ## **UX/UI**
 > - Figma
 >
@@ -24,13 +26,8 @@ Para la aplicación web (plataforma CV), se cuentan con los siguientes requisito
 > - Git / Github
 > - C# .Net Core 5
 
+---
 
-
-## WebApp
-
->  **Landing Page Day Mode**
-> ![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655196216/gamestart_wwpfig.png)
-> 
 > **LandingPage Night Mode**
 > ![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655196838/Landing_Page_zux3lu.png)
 
@@ -61,7 +58,9 @@ Para la aplicación web (plataforma CV), se cuentan con los siguientes requisito
 > - Git / Github
 > - C# .Net Core 5
 
-
+>  **Landing Page Day Mode**
+> ![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655196216/gamestart_wwpfig.png)
+> 
 >**Assets**
 >![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655197645/Sprites_vkbbfd.jpg)
 
