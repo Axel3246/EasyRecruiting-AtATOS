@@ -8,10 +8,10 @@ El cliente ha solicitado el desarrollo de un portal para la administración y vi
 
 Para la aplicación web (plataforma CV), se cuentan con los siguientes requisitos para front-end y back-end:
 
->UX/UI
-> Figma
+> ## ** UX/UI **
+> - Figma
 >
-> - Front-End
+> ## ** Front-End **
 > - CSS
 > - HTML
 > - Bootstrap
