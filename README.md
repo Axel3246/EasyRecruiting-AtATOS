@@ -6,6 +6,36 @@
 
 El cliente ha solicitado el desarrollo de un portal para la administración y visualización del CV de los aplicantes a la empresa ATOS. Adicionalmente, se solicitó el desarrollo de un videojuego cuyo propósito será la preselección de entrevistas a través de preguntas y respuestas propias de las herramientas y/o programas a utilizar.
 
+Para la aplicación web (plataforma CV), se cuentan con los siguientes requisitos para front-end y back-end:
+
+>UX/UI
+> Figma
+>
+> - Front-End
+> - CSS
+> - HTML
+> - Bootstrap
+> - JavaScript
+> - Git / Github
+> 
+> - Back-End
+> - MySQL
+> - Rest API
+> - Git / Github
+> - C# .Net Core 5
+
+Para el videojuego (entrevista técnica) se cuentan con los siguientes:
+
+UI
+Unity
+Git / Github
+
+Back-End
+MySQL
+Rest API
+Git / Github
+C# .Net Core 5
+
 
 ## Aplicación
 
