@@ -62,7 +62,7 @@ We built an recruiting portal for the administration and visualization of the CV
 
 >  **Landing Page Day Mode**
 > ![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655196216/gamestart_wwpfig.png)
-> 
+
 >**Assets**
 >![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655197645/Sprites_vkbbfd.jpg)
 
@@ -74,7 +74,6 @@ We built an recruiting portal for the administration and visualization of the CV
 
 >**Controls**
 >![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655198121/controls_sawfac.png)
-
 
 >**Score**
 >![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655198127/score_o8htp1.png)
