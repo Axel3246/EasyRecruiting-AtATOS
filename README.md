@@ -51,7 +51,7 @@ We built an recruiting portal for the administration and visualization of the CV
 > - UI
 > - Unity
 > - Git / Github
-
+> 
 > ## **Back-End**
 > - MySQL
 > - Rest API
