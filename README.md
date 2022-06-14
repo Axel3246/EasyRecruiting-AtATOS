@@ -1,46 +1,37 @@
-# **AtosApplication**
+# **Atos Recruiting Application**
 
 ## **Materia:** Construcción de Software y Toma de Decisiones
 
 ### Introducción
 
-El cliente ha solicitado el desarrollo de un portal para la administración y visualización del CV de los aplicantes a la empresa ATOS. Adicionalmente, se solicitó el desarrollo de un videojuego cuyo propósito será la preselección de entrevistas a través de preguntas y respuestas propias de las herramientas y/o programas a utilizar.
+We built an recruiting portal for the administration and visualization of the CV of the applicants to the ATOS company. In addition, the development of a video game whose purpose will be the pre-selection of interviews through questions and answers of the tools and/or programs to be used was shown.
 
 Para la aplicación web (plataforma CV), se cuentan con los siguientes requisitos para front-end y back-end:
 
-> ## ** UX/UI **
+> ## **UX/UI**
 > - Figma
 >
-> ## ** Front-End **
+> ## **Front-End**
 > - CSS
 > - HTML
 > - Bootstrap
 > - JavaScript
 > - Git / Github
 > 
-> - Back-End
+>  ## **Back-End**
 > - MySQL
 > - Rest API
 > - Git / Github
 > - C# .Net Core 5
 
-Para el videojuego (entrevista técnica) se cuentan con los siguientes:
-
-UI
-Unity
-Git / Github
-
-Back-End
-MySQL
-Rest API
-Git / Github
-C# .Net Core 5
 
 
-## Aplicación
+## WebApp
 
-
-> **En Night Mode**
+>  **Landing Page Day Mode**
+> ![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655196216/gamestart_wwpfig.png)
+> 
+> **LandingPage Night Mode**
 > ![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655196838/Landing_Page_zux3lu.png)
 
 > **About**
@@ -57,9 +48,18 @@ C# .Net Core 5
 
 ---
 
-## Juego 
->  **Landing en blanco**
-> ![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655196216/gamestart_wwpfig.png)
+## Game: Taco Quest 
+
+> ##**Video Game Technologies:**
+> - UI
+> - Unity
+> - Git / Github
+
+> ## **Back-End**
+> - MySQL
+> - Rest API
+> - Git / Github
+> - C# .Net Core 5
 
 
 >**Assets**
