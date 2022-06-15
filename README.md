@@ -28,7 +28,7 @@ We built an recruiting portal for the administration and visualization of the CV
 
 ---
 
-> **LandingPage Night Mode**
+> **Landing Page**
 > ![image](https://res.cloudinary.com/dxzqahpnn/image/upload/v1655196838/Landing_Page_zux3lu.png)
 
 > **About**
